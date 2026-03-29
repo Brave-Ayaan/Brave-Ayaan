@@ -23,7 +23,7 @@ jobs:
           pip install requests lxml python-dateutil
 
       - name: Run Update Script
-        run: python your_script_name.py  # <-- CHANGE THIS to your actual .py filename
+        run: today.py  # <-- CHANGE THIS to your actual .py filename
         env:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
           USER_NAME: 'Brave-Ayaan'
