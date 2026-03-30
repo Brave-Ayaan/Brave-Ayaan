@@ -69,4 +69,5 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Credits</tspan>:<tspan class="cc" id="repo_data_dots"> .. </tspan><tspan class="value" id="repo_data">@andrew6rant</tspan> {<tspan class="key">Go Check Out</tspan>:<tspan class="value" id="contrib_data">@gauj</tspan>} | <tspan class="key">Hours</tspan>:<tspan class="cc" id="star_data_dots"> .</tspan><tspan class="value" id="star_data">3-7</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">IPV4</tspan>:<tspan class="cc" id="commit_data_dots"> ..   .. </tspan><tspan class="value" id="commit_data">***.***.*.*</tspan> | <tspan class="key">RAM</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">2.5 Petabytes</tspan>
 <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">PC</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">Homo sapien</tspan>
+</text>
 </svg>
